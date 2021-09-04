@@ -1,8 +1,4 @@
-# [Soft UI React Native](https://github.com/Eugene20920/Soft-ui-react-native-main) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=soft-ui%20React%20Native,%20a%20cool%20NowUI%20React%20Native%20App%20Template%20%E2%9D%A4%EF%B8%8F%20https%3A//bit.ly/2KAj86H%20%23reactnative%20%23NowUI%20%23designsystem%20%23developers%20via%20%40CreativeTim)
-
-
- ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)  [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-soft-ui-react-native.svg?style=flat)](https://github.com/creativetimofficial/ct-soft-ui-react-native/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-soft-ui-react-native.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-soft-ui-react-native/issues?q=is%3Aissue+is%3Aclosed)
-
+# [Soft UI React Native](https://github.com/Eugene20920/Soft-ui-react-native-main)
 
 
 Soft UI React Native is a fully coded app template built over [React Native](https://facebook.github.io/react-native/?ref=creativetim) and [Expo](https://expo.io/?ref=creativetim) to allow you to create powerful and beautiful e-commerce mobile applications. We have redesigned all the usual components in-house to make it look like Soft UI's KIT, minimalistic and easy to use.
