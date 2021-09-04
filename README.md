@@ -4,7 +4,6 @@
  ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)  [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-soft-ui-react-native.svg?style=flat)](https://github.com/creativetimofficial/ct-soft-ui-react-native/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-soft-ui-react-native.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-soft-ui-react-native/issues?q=is%3Aissue+is%3Aclosed)
 
 
-![Product](https://s3.amazonaws.com/creativetim_bucket/products/490/original/opt_soft_ui_react_native_thumbnail.jpg)
 
 Soft UI React Native is a fully coded app template built over [React Native](https://facebook.github.io/react-native/?ref=creativetim) and [Expo](https://expo.io/?ref=creativetim) to allow you to create powerful and beautiful e-commerce mobile applications. We have redesigned all the usual components in-house to make it look like Soft UI's KIT, minimalistic and easy to use.
 
@@ -47,10 +46,6 @@ Let us know your thoughts below. And good luck with development!
 ## Versions
 
 [<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/soft-ui-kit-pro)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/react-native-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/soft-ui-react-native)
-
-| HTML | React-Native  |
-| --- | --- |
-| [![Soft UI Kit](https://s3.amazonaws.com/creativetim_bucket/products/448/original/opt_sds_free_thumbnail.jpg?1614876201)](https://www.creative-tim.com/product/soft-ui-design-system)  | [![Soft UI React-Native](https://s3.amazonaws.com/creativetim_bucket/products/490/original/opt_soft_ui_react_native_thumbnail.jpg?1625576346)](https://www.creative-tim.com/product/soft-ui-react-native) |
 
 ## Demo
 - [Start page](https://demos.creative-tim.com/soft-ui-react-native)
@@ -178,8 +173,3 @@ If you have questions or need help integrating the product please [contact us](h
 - Check our Bundles [here](https://www.creative-tim.com/bundles?ref=soft-ui-github-readme)
 
 
-### Social Media
-Twitter: <https://twitter.com/CreativeTim>
-Facebook: <https://www.facebook.com/CreativeTim>
-Dribbble: <https://dribbble.com/creativetim>
-Instagram: <https://www.instagram.com/CreativeTimOfficial>
